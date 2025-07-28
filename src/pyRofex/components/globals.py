@@ -31,8 +31,8 @@ environment_config = {
         "ssl_opt": None
     },
     Environment.LIVE: {
-        "url": "https://api.primary.com.ar/",
-        "ws": "wss://api.primary.com.ar/",
+        "url": "https://api.cocos.xoms.com.ar/",
+        "ws": "wss://api.cocos.xoms.com.ar/",
         "ssl": True,
         "proxies": None,
         "rest_client": None,
